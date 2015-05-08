@@ -8,7 +8,7 @@ This is a list of places online and offline that offer exercises that can be use
 
 - (http://codekata.pragprog.com/), http://codekata.com/ A collection of kata from Pragmatic Programmers
 
-- http://codingdojo.org/cgi-bin/wiki.pl?KataCatalogue Approximately 25 different categorized exercises on this site.
+- http://codingdojo.org/ Approximately 25 different categorized exercises on this site.
 
 - http://codingkata.org/katas/ Good kata for beginners, showing steps in multiple languages
 
